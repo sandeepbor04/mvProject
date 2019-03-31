@@ -1,0 +1,12 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="eCommerceApplicatio" verbose="1" >
+  
+  <test name="AccountCreation">
+    <classes>
+      <class name="com.project.testcases.sandeep"/>
+    </classes>
+  </test>
+</suite>
+
